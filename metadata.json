@@ -1,0 +1,5 @@
+{
+  "name": "Phoenix.AI",
+  "description": "A web application that allows users to build UI components with the help of an AI assistant, replicating an intelligent canvas-like interface.",
+  "requestFramePermissions": []
+}
